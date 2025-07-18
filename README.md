@@ -9,8 +9,7 @@ This assignment uses data from the [UCI Machine Learning Repository](https://arc
 ```
 gender-by-name-sas/
 1. sas_programs/         # SAS code for data extraction, cleaning, and analysis
-2. report/               # Final report and documentation
-3. README.md             # Project overview (this file)
+2. README.md             # Project overview (this file)
 ```
 
 ## 🛠 Tools & Technologies
